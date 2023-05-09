@@ -2,7 +2,7 @@
 
 I am an ancient embedded developer who loves 🦀  Rust & ₿
 
-_Infinite learner_
+_Infinite learner_<br>
 _Finite Human_
 
 
@@ -12,6 +12,6 @@ _Finite Human_
 
 ⚡ Lightning Address: pinballwizard@getalby.com
 
-💬 Nostr: npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng
+💬 Nostr: npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng<br> 
 💬 Nostr NIP05: pinballwizard@nostr.red
 
