@@ -6,7 +6,7 @@ _Infinite learner_
 _Finite Human_
 
 
-⚡ I’m currently working on 🧌 Mostro.network
+⚡ I’m currently working on [Mostro](https://mostro.network)
 
 ⚡ Donation if you like to https://getalby.com/p/pinballwizard
 
