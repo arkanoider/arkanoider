@@ -8,8 +8,6 @@ _Finite Human_
 
 ⚡ I’m currently working on 🧌 Mostro.network
 
-⚡ Tips: https://getalby.com/p/yuki
-
 ⚡ Donation if you like to https://getalby.com/p/pinballwizard
 
 ⚡ Lightning Address: pinballwizard@getalby.com
