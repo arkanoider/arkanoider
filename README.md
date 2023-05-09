@@ -13,4 +13,5 @@ _Finite Human_
 ⚡ Lightning Address: pinballwizard@getalby.com
 
 💬 Nostr: npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng
+💬 Nostr NIP05: pinballwizard@nostr.red
 
