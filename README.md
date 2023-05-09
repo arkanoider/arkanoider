@@ -1,16 +1,18 @@
-### Hi there 👋
+### Arkanoider 👋
 
-<!--
-**arkanoider/arkanoider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an ancient embedded developer who loves 🦀  Rust & ₿
 
-Here are some ideas to get you started:
+_Infinite learner_
+_Finite Human_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+⚡ I’m currently working on 🧌 Mostro.network
+
+⚡ Tips: https://getalby.com/p/yuki
+
+⚡ Donation if you like to https://getalby.com/p/pinballwizard
+
+⚡ Lightning Address: pinballwizard@getalby.com
+
+💬 Nostr: npub1qqpn4ym6tc5ul6d2kjxnzx3sv9trekp53678ut9fe3wrxa6yvhjsnql2ng
+
